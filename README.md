@@ -29,7 +29,7 @@ The courses were divided in:
 ### Introduction to Computer Science and Programming
   
 - MIT: Introduction to Computer Science and Programming in Python - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)
-- MIT: Introduction to Computational Thinking and Data Science - [edX](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2)  
+- MIT: Introduction to Computational Thinking and Data Science - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | [edX](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2)  
   
 ## Intermediate
   

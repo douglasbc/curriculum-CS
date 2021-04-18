@@ -1,4 +1,4 @@
-# Be a self-taught computer scientist
+# Computer Science Curriculum
   
 This is a repository with the study planning that my wife [Andressa](https://github.com/andressadotpy) and I have made.  Our goal was to plan the equivalent of an entire Computer Science undergraduate program, based on the [6-3: Computer Science and Engineering 2019 MIT Curriculum](https://www.eecs.mit.edu/docs/ug/freshman_roadmaps.pdf), with only freely available courses. Pretty much every lecture is from top notch Universities such as MIT, Stanford and UC Berkeley. We also added some extra lectures that we will be watching as a complement to our studies.  
   
@@ -15,6 +15,7 @@ The courses were divided in:
 ### Math
   
 - TU Delft: Pre-University Calculus - [edX](https://www.edx.org/course/pre-university-calculus)
+- 3Blue1Brown: Essence of calculus - [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) \***
 - MIT: Calculus 1A: Differentiation - [edX](https://www.edx.org/course/calculus-1a-differentiation)
 - MIT: Calculus 1B: Integration - [edX](https://www.edx.org/course/calculus-1b-integration)
 - MIT: Calculus 1C: Coordinate Systems & Infinite Series - [edX](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
